@@ -1,4 +1,4 @@
-package main
+package oauth2proxy
 
 import (
 	b64 "encoding/base64"

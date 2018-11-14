@@ -1,7 +1,7 @@
 // largely adapted from https://github.com/gorilla/handlers/blob/master/handlers.go
 // to add logging of request duration as last value (and drop referrer)
 
-package main
+package oauth2proxy
 
 import (
 	"fmt"
